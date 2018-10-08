@@ -9,11 +9,24 @@ h1{
   color: white;
 }
 
-.bottom{
-  text-align: left;
+h2{
+  font-size: 23px;
+  font-weight: bold;
 }
 
-.navigation,a{
+.footer{
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  display: block;
+}
+
+.copyright{
+  font-size: 11px;
+  display: inline;
+}
+
+.navigation a{
   font-size: 18px;
   color: white;
 
@@ -23,4 +36,17 @@ h1{
   background-image: url("./images/the-flatiron-building.png");
   background-size: auto;
 
+}
+
+.process{
+  font-size: 32px
+}
+
+.designed{
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
+}
+
+p{
+  font-size: 14px;
 }
