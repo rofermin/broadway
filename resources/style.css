@@ -24,12 +24,10 @@ p{
   text-align: left;
   color: white;
   background-color: dimgray;
-  display: block;
 }
 
 .copyright{
   font-size: 11px;
-  display: inline;
 }
 
 .navigation a{
